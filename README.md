@@ -38,12 +38,41 @@ I'm a passionate Flutter developer with a strong background in building beautifu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhisham1369&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedhisham1369&theme=darkhub" alt="GitHub Trophies" />
+</div>
+
+## 💼 Projects
+
+- [Medical Data System](https://github.com/mohamedhisham1369/medical-data-system) - A comprehensive medical data system built with Flutter.
+- [Project Name](https://github.com/mohamedhisham1369/project-name) - Brief description of your project.
+- [Project Name](https://github.com/mohamedhisham1369/project-name) - Brief description of your project.
+
+## 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Flutter App](https://yourblog.com/flutter-app)
+- [Understanding BLoC Pattern](https://yourblog.com/bloc-pattern)
+- [Using Firebase with Flutter](https://yourblog.com/firebase-flutter)
+<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium)](https://medium.com/@yourusername)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-hisham-8a4b89279">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohamedhisham169@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/mohamedhisham1369">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://drive.google.com/file/d/1dXv920RC70CopCpcojqlIVOaIgVzAQUN/view">
+    <img src="https://img.shields.io/badge/My%20CV-4285F4?style=flat-square&logo=google-drive&logoColor=white" alt="My CV" />
+  </a>
+</div>
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect. 😊
