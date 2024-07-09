@@ -22,10 +22,13 @@ I'm a passionate Flutter developer with a strong background in building beautifu
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
 
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhisham1369&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhisham1369&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 
