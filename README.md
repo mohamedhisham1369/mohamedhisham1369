@@ -38,25 +38,6 @@ I'm a passionate Flutter developer with a strong background in building beautifu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhisham1369&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedhisham1369&theme=darkhub" alt="GitHub Trophies" />
-</div>
-
-## 💼 Projects
-
-- [Medical Data System](https://github.com/mohamedhisham1369/medical-data-system) - A comprehensive medical data system built with Flutter.
-- [Project Name](https://github.com/mohamedhisham1369/project-name) - Brief description of your project.
-- [Project Name](https://github.com/mohamedhisham1369/project-name) - Brief description of your project.
-
-## 📝 Recent Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a Flutter App](https://yourblog.com/flutter-app)
-- [Understanding BLoC Pattern](https://yourblog.com/bloc-pattern)
-- [Using Firebase with Flutter](https://yourblog.com/firebase-flutter)
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect with Me
 
