@@ -1,49 +1,55 @@
-<h2 align="left">Iam Mohamed Hisham </h2>
+# Hi there, I'm Mohamed Hisham 👋
 
-###
+![Flutter Developer](https://img.shields.io/badge/Flutter-Developer-blue?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
+![GitHub followers](https://img.shields.io/github/followers/mohamedhisham1369?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mohamedhisham1369?style=social)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🚀 About Me
 
-###
+I'm a passionate Flutter developer with a strong background in building beautiful and functional mobile applications. I love creating seamless user experiences and bringing ideas to life through code.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- 🔭 I’m currently working on a medical data system using Flutter.
+- 🌱 I’m constantly learning and exploring new technologies in mobile development.
+- 💬 Ask me about Flutter, Dart, and mobile app development.
+- 📫 How to reach me: [mohamedhisham169@gmail.com](mailto:mohamedhisham169@gmail.com)
+- 📝 Check out my portfolio: [Your Portfolio Link](https://yourportfolio.com)
 
-###
+## 🛠️ Technologies & Tools
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-###
+## 📈 GitHub Stats
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhisham1369&show_icons=true&theme=radical)
 
-###
+## 🏆 GitHub Trophies
 
-<br clear="both">
+![trophy](https://github-profile-trophy.vercel.app/?username=mohamedhisham1369&theme=onedark)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 💼 Projects
 
-###
+- [Medical Data System](https://github.com/mohamedhisham1369/medical-data-system) - A comprehensive medical data system built with Flutter.
+- [Project Name](https://github.com/mohamedhisham1369/project-name) - Brief description of your project.
+- [Project Name](https://github.com/mohamedhisham1369/project-name) - Brief description of your project.
+
+## 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Flutter App](https://yourblog.com/flutter-app)
+- [Understanding BLoC Pattern](https://yourblog.com/bloc-pattern)
+- [Using Firebase with Flutter](https://yourblog.com/firebase-flutter)
+<!-- BLOG-POST-LIST:END -->
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yourusername)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium)](https://medium.com/@yourusername)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
+
+Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect. 😊
