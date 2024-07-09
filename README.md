@@ -17,7 +17,7 @@ I'm a passionate Flutter developer with a strong background in building beautifu
 
 ## 🛠️ Technologies & Tools
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
@@ -33,12 +33,16 @@ I'm a passionate Flutter developer with a strong background in building beautifu
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedhisham1369&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhisham1369&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedhisham1369&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhisham1369&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=mohamedhisham1369&theme=onedark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedhisham1369&theme=darkhub" alt="GitHub Trophies" />
+</div>
 
 ## 💼 Projects
 
@@ -62,6 +66,3 @@ I'm a passionate Flutter developer with a strong background in building beautifu
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect. 😊
-
-
-
