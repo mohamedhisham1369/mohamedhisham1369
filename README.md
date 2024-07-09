@@ -17,13 +17,19 @@ I'm a passionate Flutter developer with a strong background in building beautifu
 
 ## 🛠️ Technologies & Tools
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
 ## 📈 GitHub Stats
 
@@ -56,3 +62,6 @@ I'm a passionate Flutter developer with a strong background in building beautifu
 [![Personal Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome)](https://yourwebsite.com)
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect. 😊
+
+
+
