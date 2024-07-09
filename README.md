@@ -12,8 +12,8 @@ I'm a passionate Flutter developer with a strong background in building beautifu
 - 🔭 I’m currently working on a medical data system using Flutter.
 - 🌱 I’m constantly learning and exploring new technologies in mobile development.
 - 💬 Ask me about Flutter, Dart, and mobile app development.
-- 📫 How to reach me: [mohamedhisham169@gmail.com](mailto:mohamedhisham169@gmail.com)
-- 📝 Check out my portfolio: [Your Portfolio Link](https://yourportfolio.com)
+- 📫 How to reach me: [mohamedhisham169@gmail.com](mailto:mohamedhisham1369@gmail.com)
+- 📝 Check out my portfolio: [Your Portfolio Link](https://drive.google.com/file/d/1dXv920RC70CopCpcojqlIVOaIgVzAQUN/view)
 
 ## 🛠️ Technologies & Tools
 
