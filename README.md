@@ -8,7 +8,7 @@
 
 I'm a passionate Flutter developer with a strong background in building beautiful and functional mobile applications. I love creating seamless user experiences and bringing ideas to life through code.
 
-- 🔭 I’m currently working on a medical data system using Flutter.
+- 🔭 I’m currently working as a **Flutter Developer**.
 - 🌱 I’m constantly learning and exploring new technologies in mobile development.
 - 💬 Ask me about Flutter, Dart, and mobile app development.
 - 📫 How to reach me: [mohamedhisham169@gmail.com](mailto:mohamedhisham1369@gmail.com)
