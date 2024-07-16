@@ -11,7 +11,7 @@ I'm a passionate Flutter developer with a strong background in building beautifu
 - 🔭 I’m currently working as a **Flutter Developer**.
 - 🌱 I’m constantly learning and exploring new technologies in mobile development.
 - 💬 Ask me about Flutter, Dart, and mobile app development.
-- 📫 How to reach me: [mohamedhisham169@gmail.com](mailto:mohamedhisham1369@gmail.com)
+- 📫 How to reach me: [mohamedhisham169@gmail.com](mailto:mohamedhisham169@gmail.com)
 - 📝 Check out my portfolio: [My Cv](https://drive.google.com/file/d/1dFwXk4UbOJJ-8zj-BgSdDRCfA3uNviaR/view?usp=sharing)
 
 ## 🛠️ Technologies & Tools
@@ -32,11 +32,11 @@ I'm a passionate Flutter developer with a strong background in building beautifu
 
 ## 📊 My Stats:
 
-<a href="https://github.com/Shalaby-VBS/github-readme-stats"><img alt="Shalaby's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shalaby-VBS&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Shalaby-VBS/github-readme-stats"><img alt="Shalaby's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalaby-VBS&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/mohamedhisham1369/github-readme-stats"><img alt="Mohamed's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamedhisham1369&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/mohamedhisham1369/github-readme-stats"><img alt="Mohamed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhisham1369&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <p align="start">
-    <a href="https://github.com/Shalaby-VBS/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shalaby's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shalaby-VBS&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/mohamedhisham1369/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mohamed's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedhisham1369&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -45,8 +45,6 @@ I'm a passionate Flutter developer with a strong background in building beautifu
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
-
-
 
 ## 📫 Connect with Me
 
